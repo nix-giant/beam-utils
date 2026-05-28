@@ -1,5 +1,7 @@
 # beam-utils
 
+> Deprecated. I don't use it anymore.
+
 A flake providing utils for BEAM.
 
 ## Why?
